@@ -1,5 +1,5 @@
 # Hello there!
-![image](https://user-images.githubusercontent.com/76247382/184879367-64a55cd9-af24-47d6-bc25-b4324c03daef.png)
+![image](https://github.com/TanmayMehta-ml/TanmayMehta-ml/blob/main/linkedin_banner.png)
 ## Socials - Get Connected
 [LinkedIn](https://www.linkedin.com/in/tanmay-here/) &bullet; [Gmail](mehtatanmay9211@gmail.com) &bullet; [Leetcode](https://leetcode.com/mehtatanmay9211/) &bullet; [Website](https://sites.google.com/student.onlinedegree.iitm.ac.in/tanmay-mehta/student-portfolio) 
 
