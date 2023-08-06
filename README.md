@@ -9,8 +9,8 @@ An energetic and self-motivated undergraduate with analytical, strategical and p
 ## Skills
 * Languages - Python, SQL, C++
 * Tools - Tableau, Excel, Power BI, Ubuntu Linux
-* Areas of interest - `Data Science`,`Machine Learning`, `Data Visualization`, `Statistics`, `Project Management`, `Chess`
+* Areas of interest - `Data Science`,`Aritificial Intelligence`,`Machine Learning`, `Data Visualization`, `Statistics`, `Project Management`, `Chess`
 
 ## Ask me about
 
-- Machine Learning, Finance, Linux and tech in general.
+- AI, Machine Learning, Finance, Linux and tech in general.
