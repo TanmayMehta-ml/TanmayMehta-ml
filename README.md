@@ -1,4 +1,4 @@
-# Hello there! 👋🏼🧑🏽‍💻
+# Hello there! 👋🏼
 ![image](https://github.com/TanmayMehta-ml/TanmayMehta-ml/blob/main/github_banner.png)
 ## Socials - Get Connected 🫱🏽‍🫲🏻
 [LinkedIn](https://www.linkedin.com/in/tanmay-here/) &bullet; [Gmail](mehtatanmay9211@gmail.com) &bullet; [Leetcode](https://leetcode.com/mehtatanmay9211/) &bullet; [Website](https://sites.google.com/student.onlinedegree.iitm.ac.in/tanmay-mehta/student-portfolio) 
