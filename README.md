@@ -7,7 +7,7 @@
 5x Certified Salesforce Developer at Deloitte. 2 years building on Sales Cloud, Agentforce, and Data Cloud. Occasionally breaks things on Linux for fun.
 
 ## Skills ✅
-* Languages - Apex, JavaScript, HTML, Python, SQL
+* Languages - Java, JavaScript, HTML, Python, SQL
 * Tools - SalesForce, Tableau, Excel, Power BI, Ubuntu Linux
 * Areas of interest - `SalesForce`, `Data Science`,`Aritificial Intelligence`,`Machine Learning`, `Statistics`, `Project Management`, `Chess`
 
